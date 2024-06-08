@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on ... educonf Technoloies Pvt.Ltd. 
+- 🌱 I’m currently learning ... system Hacking
+- 👯 I’m looking to collaborate on ... 
+- 🤔 I’m looking for help with ... How can i Join cyber cell
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: ... soyamarya96workofficial@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hc4honestcorrupt" alt="hc4honestcorrupt" /></a> </p>
 
-- 🔭 I’m currently working **website development**
+- 🔭 I’m currently working **Educonf Technoloies Pvt.Ltd.**
 
-- 🌱 I’m currently learning **js,phython,and penetration testing.**
+- 🌱 I’m currently learning **System Hacking.**
 
 - 📫 How to reach me **soyamarya96workofficial@gmail.com.**
 
-- 📄 Know about my experiences [there is nothing to say😪.](there is nothing to say😪.)
+- 📄 Know about my experiences Interned
 
-- ⚡ Fun fact **I think am funny😁..**
+- ⚡ Fun fact .
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/soyam (the_kingmeker_) arya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soyam (the_kingmeker_) arya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/soyam-arya-a90356312/ (the_kingmeker_) arya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soyam (the_kingmeker_) arya" height="30" width="40" /></a>
 <a href="https://instagram.com/the_king13eker_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_king13eker_" height="30" width="40" /></a>
 </p>
 
