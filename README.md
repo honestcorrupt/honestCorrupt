@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... educonf Technoloies Pvt.Ltd. 
-- 🌱 I’m currently learning ... system Hacking
+- 🌱 I’m currently learning ... Info Greathering
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... How can i Join cyber cell
 - 💬 Ask me about ...
