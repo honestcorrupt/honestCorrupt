@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently Interned at **Educonf Technoloies Pvt.Ltd.**
 
-- 🌱 I’m currently learning **System Hacking.**
+- 🌱 I’m currently learning **Blockchain Penetration Testing.**
 
 - 📫 How to reach me **soyamarya96workofficial@gmail.com.**
 
