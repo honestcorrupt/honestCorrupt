@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hc4honestcorrupt" alt="hc4honestcorrupt" /></a> </p>
 
-- 🔭 I’m currently Interned at **Educonf Technoloies Pvt.Ltd.**
+- 🔭 I’m currently Doing   **C.T.Fs.**
 
 - 🌱 I’m currently learning **Blockchain Penetration Testing.**
 
