@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently intern at ... educonf Technoloies Pvt.Ltd. 
-- 🌱 I’m currently learning ... R.A.T
+- 🔭 I’m currently intern at ... NullClass Pvt. Ltd. 
+- 🌱 I’m currently learning ... Mobile OS Penetration Testing.
 - 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... 888 R.A.T
+- 🤔 I’m looking for help with ... xss
 - 💬 Ask me about ...
 - 📫 How to reach me: ... soyamarya96workofficial@gmail.com
 - 😄 Pronouns: ...
