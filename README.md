@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Mobile Application Penetration Testing and Mobile OS Security.**
 
-- 📫 How to reach me **soyamarya96workofficial@gmail.com.**
+- 📫 How to reach me **honestcorrupt0hc4@duck.com**
 
 - 📄 Know about my experiences Interned
 
