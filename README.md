@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **honestcorrupt0hc4@duck.com**
 
-- 📄 Know about my experiences Interned  ** i'm a interned and also a bug hunder, VDP disclosure. **
+- 📄 Know about my experiences Interned  **i'm a interned and also a bug hunder, VDP disclosure.**
 
-- ⚡ Fun fact  **I am a CVE Holder and CVE Author. **
+- ⚡ Fun fact  **I am a CVE Holder and CVE Author.**
 
-- 🎉 You can see my official CVE here  ** https://vuldb.com/?id.310242 **
+- 🎉 You can see my official CVE here  **https://vuldb.com/?id.310242**
 
-- ✌ MY CVE ID  **  CVE-2025-5154 **
+- ✌ MY CVE ID  **CVE-2025-5154**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
